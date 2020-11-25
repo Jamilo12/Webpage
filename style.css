@@ -1,0 +1,32 @@
+
+
+h1 { 
+    color: crimson;
+font-style: initial;
+font-family: Arial;
+font-size: 50px;
+font-weight: bolder;
+
+}
+
+
+h2{
+color: orange;
+font: status-bar;
+font-style: italic;
+font-size: 20px;
+font-weight: bold;
+}
+
+P{
+
+    color: slategrey;
+    font-style: inherit;
+    font-family: sans-serif;
+}
+h3{
+    font-family: sans-serif;
+font-style: oblique;
+font-size: 15px;
+}
+
